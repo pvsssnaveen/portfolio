@@ -94,16 +94,17 @@
   }
 
 #education {
-  background-color: #ecfccb; /* light green tint */
-  padding: 50px 20px;
-  margin-top: 20px;
-  border-radius: 10px;
+  background-color: #ffffff;
+    color: #333;
+    padding: 50px 20px;
+    border-radius: 10px;
+    margin-top: 20px;
 }
 
 #education h2 {
-  color: #4d7c0f;
-  font-size: 2em;
-  margin-bottom: 20px;
+    color: #84cc16;
+    font-size: 2em;
+    margin-bottom: 20px;
 }
 
 #education .card {
