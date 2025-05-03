@@ -92,6 +92,29 @@
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
+
+#education {
+  background-color: #ecfccb; /* light green tint */
+  padding: 50px 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+#education h2 {
+  color: #4d7c0f;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+#education .card {
+  background-color: #ffffff;
+  color: #333;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  line-height: 1.6;
+  text-align: left;
+}
   
   /* Skills Section */
   #skills {
